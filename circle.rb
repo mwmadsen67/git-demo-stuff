@@ -10,5 +10,8 @@ class Circle
     return Math::PI * radius ** 2
   end
 
+  def leader
+    return "mike"
+  end
   
 end
